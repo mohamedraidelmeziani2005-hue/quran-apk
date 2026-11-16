@@ -1,0 +1,9 @@
+{
+  "app_name": "قرآن الكريم",
+  "package_name": "com.mohamedraid.qurankarim",
+  "version": "1.0.4",
+  "version_code": 104,
+  "update_link": "https://raw.githubusercontent.com/mohamedraidelmeziani2005-hue/quran-apk/main/Quran_Karim.apk",
+  "fallback_update_link": "https://github.com/mohamedraidelmeziani2005-hue/quran-apk/releases/latest/download/Quran_Karim.apk",
+  "release_notes": "الإصدار 1.0.4 لتطبيق قرآن الكريم للهاتف:\n• المصحف الشريف كاملاً (114 سورة) بالرسم العثماني مع البحث الفوري بالآيات والسور بدون إنترنت\n• تلاوات صوتية لأكثر من 25 قارئاً مع إمكانية التحميل والاستماع بدون إنترنت\n• مواقيت الصلاة التلقائية حسب موقع الهاتف مع العد التنازلي وإشعارات الأذان والتذكير المسبق\n• الأذكار والتسابيح اليومية مع عداد تفاعلي\n• نظام تحديث داخلي مباشر لتحميل وتثبيت التحديثات من داخل التطبيق"
+}
